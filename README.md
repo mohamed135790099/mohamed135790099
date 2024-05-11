@@ -29,13 +29,6 @@ Laravel backend developers use the Laravel framework to build robust web applica
 
 ### Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed135790099&show_icons=true&theme=radical)
-
-- **Total Repositories:** 50
-- **Total Stars:** 500
-- **Total Commits:** 1000
-- **Total Pull Requests:** 50
-- **Total Issues:** 20
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mohamed135790099"><img src="https://github-readme-stats.vercel.app/api?username=mohamed135790099&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohamed135790099's GitHub stats" /></a>
