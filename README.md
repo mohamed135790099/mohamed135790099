@@ -1,7 +1,4 @@
 
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mohamed Hussien</h1>
 <h3 align="center">A passionate flutter developer and backend laravel from Egypt</h3>
 
