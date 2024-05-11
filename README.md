@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hussien</h1>
 <h3 align="center">A passionate flutter developer and backend laravel from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed135790099" alt="mohamed135790099" /></a> </p>
-
-- 🔭 I’m currently working on [lawyer secretary](https://github.com/mohamed135790099/lawyer_secretary_app)
+- 🔭 I’m currently working on [Lawyer Secretary](https://github.com/mohamed135790099/lawyer_secretary_app)
 
 - 🌱 I’m currently learning **Ai tools**
 
-- 👯 I’m looking to collaborate on [waffer bullk](https://github.com/mohamed135790099/Waffer-Bullk-App)
+- 👯 I’m looking to collaborate on [Waffer Bullk](https://github.com/mohamed135790099/Waffer-Bullk-App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamed135790099/](https://github.com/mohamed135790099/)
 
@@ -17,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hussien-mohamed-0498a3213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hussien-mohamed-0498a3213/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mohamed.huissen.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.huissen.98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc77_afpy9hhzc5kk-qanq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc77_afpy9hhzc5kk-qanq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc77_afpy9hhzc5kk-qanqja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc77_afpy9hhzc5kk-qanqja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
