@@ -17,8 +17,6 @@ Laravel backend developers use the Laravel framework to build robust web applica
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed135790099&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  [![Recently Updated](https://github-readme-recent-activity.herokuapp.com/latest?username=mohamed135790099)](https://github.com/mohamed135790099)
-
 
 
 ### Skills
