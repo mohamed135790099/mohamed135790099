@@ -15,6 +15,9 @@ Laravel backend developers use the Laravel framework to build robust web applica
 * 🧠  I'm learning Ai Tools
 * 🤝  I'm open to collaborating on Waffer Bullk
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed135790099&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### Skills
 
 
