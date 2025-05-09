@@ -10,7 +10,7 @@ Flutter developers leverage the Flutter framework to craft cross-platform applic
 Laravel backend developers use the Laravel framework to build robust web applications. Proficient in PHP, they leverage Laravel's features to deliver efficient backend solutions. They implement authentication, routing, and database management for secure and performant web apps. Following the MVC pattern, they organize code for scalability and collaboration.
 
 * 🌍  I'm based in Beni Suef,Egypt
-* ✉️  You can contact me at [mohamedhusien144\_sd@fcis.bsu.edu.eg](mailto:mohamedhusien144_sd@fcis.bsu.edu.eg)
+* ✉️  You can contact me at mohamedhussienabdmagied@gmail.com
 * 🚀  I'm currently working on Multi Projects
 * 🧠  I'm learning Ai Tools
 * 🤝  I'm open to collaborating on Waffer Bullk
